@@ -1,0 +1,43 @@
+.familyMember {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20%;
+    padding: 1%;
+    background-color: royalblue;
+    margin:1%;
+    /* border: 1px solid black; */
+    font-family:  Arial, Helvetica, sans-serif;
+
+    padding: 20px 10px 20px 10px;
+    border-radius: 3px; 
+    /* margin: 5px;  */
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6em;
+    font-weight: bold;
+    color: white; 
+    text-align: center;
+    /* text-shadow: cadetblue; */
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+    /* text-shadow: 2px 2px 4px #000000; */
+}
+ h2 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: .75em;
+        font-weight: bold;
+        color: white; 
+        text-align: center;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+ }
+
+ ol {
+    font-family: Arial, Helvetica, sans-serif;
+        font-size: .75em;
+        font-weight: bold;
+        color: white; 
+        text-align: left;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 4px darkblue;
+
+ }
